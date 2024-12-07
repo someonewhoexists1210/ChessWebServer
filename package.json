@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-ws": "^5.0.2",
+    "mysql": "^2.18.1",
+    "raf": "^3.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
