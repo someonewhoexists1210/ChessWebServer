@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.19.2",
     "express-ws": "^5.0.2",
     "mysql": "^2.18.1",
